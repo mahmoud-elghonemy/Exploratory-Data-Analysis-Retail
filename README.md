@@ -1,6 +1,6 @@
 # GRIP - TSF | Data Science & Business Analytics Internship
 
-## Task 2 : Exploratory Data Analysis (Retail)
+## Task 3 : Exploratory Data Analysis (Retail)
 
 ## Author : mahmoud mohamed abdelwahab
 
